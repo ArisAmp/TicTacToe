@@ -1,4 +1,4 @@
-Simple Object Oriented TicTacToe terminal game
+Object Oriented TicTacToe terminal game
 
 The board is numbered like the keyboard’s number pad. 
 
